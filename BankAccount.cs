@@ -18,7 +18,7 @@ namespace console_bank_c_
         //declare variables
 
         private Client _client;
-        private float _balance;
+        public float _balance;
         private Types _type;
 
 
@@ -31,7 +31,7 @@ namespace console_bank_c_
 
         public void MakeDeposit(float deposit)
         {
-            _balance += deposit;
+            this._balance += deposit;
         }
 
         public bool MakeWithdrawal(float withdrawal)
@@ -40,6 +40,11 @@ namespace console_bank_c_
 
             this._balance -= withdrawal;
             return true;
+        }
+
+        public float getBalance()
+        {
+            return _balance;
         }
     }
 }
