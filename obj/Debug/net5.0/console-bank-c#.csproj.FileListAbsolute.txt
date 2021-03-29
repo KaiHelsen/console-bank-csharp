@@ -1,0 +1,16 @@
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/console-bank-c#
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/console-bank-c#.deps.json
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/console-bank-c#.runtimeconfig.json
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/console-bank-c#.runtimeconfig.dev.json
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/console-bank-c#.dll
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/ref/console-bank-c#.dll
+/home/kai/Projects/console-bank-c#/bin/Debug/net5.0/console-bank-c#.pdb
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.csprojAssemblyReference.cache
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.AssemblyInfoInputs.cache
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.AssemblyInfo.cs
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.csproj.CoreCompileInputs.cache
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.dll
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/ref/console-bank-c#.dll
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.pdb
+/home/kai/Projects/console-bank-c#/obj/Debug/net5.0/console-bank-c#.genruntimeconfig.cache

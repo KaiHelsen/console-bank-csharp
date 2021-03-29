@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kai/.dotnet/store/|arch|/|tfm|",
+      "/home/kai/.nuget/packages"
+    ]
+  }
+}
