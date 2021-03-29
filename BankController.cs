@@ -142,7 +142,7 @@ namespace console_bank_c_
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("cheapskate.");
                 Console.ForegroundColor = defaultConsoleColor;
-                return
+                return;
             }
         }
 
